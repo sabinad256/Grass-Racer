@@ -1,3 +1,6 @@
+## Grass Racer
+An cross platform game for mobile platform.
+
 ## Prerequisites:
 
 * Android NDK
@@ -85,3 +88,6 @@ If the last command results in sdk.dir missing error then do:
     $ android list target
     $ android update project -p . -t (id from step 6)
     $ android update project -p cocos2d-x/cocos2dx/platform/android/java/ -t (id from step 6)
+
+## Contact Information
+ 	https://github.com/sabinad256
